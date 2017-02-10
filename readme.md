@@ -17,7 +17,7 @@ Based on this example application:
 
 ```sh
 $ git clone https://github.com/jdheywood/project-checklist.git
-$ cd web-check
+$ cd project-checklist
 $ bower install
 $ npm install
 ```
