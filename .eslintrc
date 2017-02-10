@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "Vue": true,
+    "$": true
+  },
+  "rules": {
+    "no-new": 0,
+    "no-shadow": 0
+  }
+
+}
